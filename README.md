@@ -14,8 +14,8 @@
 
 ## General Information
 - You can generate service-templates with custom config.
-- {% include example-config.json %}
-- {% include Dockerfile %}
+- ``` include example-config.json ```
+- ``` include Dockerfile ```
 
 ## Technologies Used
 - Nunjucks
