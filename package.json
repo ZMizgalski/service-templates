@@ -6,8 +6,8 @@
   "scripts": {
     "generate-templates": "npx ts-node --transpileOnly index.ts"
   },
-  "author": "",
-  "license": "MIT",
+  "author": "ZMizgalski",
+  "license": "Apache",
   "devDependencies": {
     "@types/fs-extra": "^11.0.1",
     "@types/node": "^20.2.3",
