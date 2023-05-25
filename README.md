@@ -14,23 +14,6 @@
 
 ## General Information
 - You can generate service-templates with custom config.
-- `` {
-    "ProviderName": "example-aws",
-    "ProviderType": "example-bucket-initializer",
-    "DockerExampleData": {
-        "Array1": [
-            "node echo 'pre'"
-        ],
-        "Array2": [
-            "node echo 'post'"
-        ],
-        "SetupExample": {
-            "Line1": "yarn install",
-            "Line2": "yarn add --dev @types/node"
-        }
-    }
-} ``
-- `` include Dockerfile ``
 
 ## Technologies Used
 - Nunjucks
