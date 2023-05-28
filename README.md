@@ -43,6 +43,7 @@ Project is:  _complete_ .
 
 ## Room for Improvement
 - More generic types
+- Disable ability to change configModel not for devops.
 
 ## Contact
 Created by [@zmizgalski](https://zmizgalski.github.io/) - feel free to contact me!
