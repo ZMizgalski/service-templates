@@ -33,7 +33,7 @@ List the ready features here:
 1. Create a folder named you like.
 2. Inside your folder, open console and paste: `git clone https://github.com/ZMizgalski/service-templates.git`
 3. `yarn install`
-4. Then you are ready to go just open it in any Editor. (I prefer Intellij Idea Community) [Download here](https://www.jetbrains.com/idea/download/#section=windows)
+4. Then you are ready to go just open it in any Editor. (I prefer VSCode) [Download here](https://code.visualstudio.com/)
 
 ## Usage
 1. `npm run generate-templates -- --config './config/example-config.json'`
