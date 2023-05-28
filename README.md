@@ -36,7 +36,7 @@ List the ready features here:
 4. Then you are ready to go just open it in any Editor. (I prefer VSCode) [Download here](https://code.visualstudio.com/)
 
 ## Usage
-1. ```json
+1. ```
 {
     "ProviderName": "example-aws",
     "ProviderType": "example-bucket-initializer",
