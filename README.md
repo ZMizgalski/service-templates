@@ -1,5 +1,5 @@
 # service-templates
-> Templates devops generator
+> Service templates generator for automation of day-to-day processes.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -13,7 +13,7 @@
 * [License](#license)
 
 ## General Information
-- You can generate service-templates with custom config.
+- This programme was created to speed up the daily work of creating files like Docker, CircleCi etc. After creating a configuration file, we are able to generate the entire file without much writing from the config.
 
 ## Technologies Used
 - Nunjucks
@@ -21,6 +21,8 @@
 - yargs
 - typescript
 - node
+- yarn
+- typeable
 
 ## Features
 List the ready features here:
