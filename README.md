@@ -36,7 +36,7 @@ List the ready features here:
 4. Then you are ready to go just open it in any Editor. (I prefer VSCode) [Download here](https://code.visualstudio.com/)
 
 ## Usage
-1. 
+1. Example config
 ```bash
 {
     "ProviderName": "example-aws",
@@ -55,6 +55,7 @@ List the ready features here:
     }
 }
 ```
+2. Choose template and put 
 1. `npm run generate-templates -- --config './config/example-config.json'`
 
 ## Project Status
