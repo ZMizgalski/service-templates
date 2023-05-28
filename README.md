@@ -16,13 +16,14 @@
 - This programme was created to speed up the daily work of creating files like Docker, CircleCi etc. After creating a configuration file, we are able to generate the entire file without much writing from the config.
 
 ## Technologies Used
-- Nunjucks
+- nunjucks
 - fs-extra
 - yargs
 - typescript
 - node
 - yarn
-- typeable
+- quicktype
+- rxJs
 
 ## Features
 List the ready features here:
