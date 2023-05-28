@@ -56,7 +56,7 @@ List the ready features here:
 }
 ```
 2. Choose supported template and put in `./templates` folder (example docker file)
-```docker
+```
 FROM alpine:latest
 
 ENV PROVIDER_NAME "{{ ProviderName }}"
