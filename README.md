@@ -36,6 +36,24 @@ List the ready features here:
 4. Then you are ready to go just open it in any Editor. (I prefer VSCode) [Download here](https://code.visualstudio.com/)
 
 ## Usage
+1. ```json
+{
+    "ProviderName": "example-aws",
+    "ProviderType": "example-bucket-initializer",
+    "DockerExampleData": {
+        "Array1": [
+            "node echo 'pre'"
+        ],
+        "Array2": [
+            "node echo 'post'"
+        ],
+        "SetupExample": {
+            "Line1": "yarn install",
+            "Line2": "yarn add --dev @types/node"
+        }
+    }
+}
+```
 1. `npm run generate-templates -- --config './config/example-config.json'`
 
 ## Project Status
